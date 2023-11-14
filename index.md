@@ -2,21 +2,34 @@
 
 layout: col-sidebar
 title: OWASP Security-C4PO
-tags: example-tag
-level: 2
+tags: c4po-main
+level: 1
 type: code
-pitch: A very brief, one-line description of your project
+pitch: Simplify Pentest Planning, Reporting, and Findings Delivery with C4PO
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+[![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](/projects/#div-flagships)<!-- @IGNORE PREVIOUS: link -->
+[![GitHub stars](https://img.shields.io/github/stars/marcel-haag/security-c4po.svg?label=GitHub%20%E2%98%85&style=flat)](https://github.com/marcel-haag/security-c4po/stargazers)
+![workflow_badge](https://github.com/Marcel-Haag/security-c4po/actions/workflows/c4po-ci.yml/badge.svg?branch=main)
+![workflow_badge](https://github.com/Marcel-Haag/security-c4po/actions/workflows/c4po-release.yml/badge.svg?branch=main)
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+![C4PO Logo](assets/images/repository-owasp-guide-c4po.png)
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+## Description
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+Welcome to the frontend repository of Security C4PO, an open-source pentest reporting tool.
+Security C4PO is a powerful, user-friendly tool designed to simplify the process of generating professional pentest reports.
+It aims to streamline and automate the often time-consuming task of creating comprehensive reports by providing an intuitive web-based interface that facilitates the content of the [OWASP TESTING GUIDE](https://owasp.org/www-project-web-security-testing-guide/v42/).
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 3.5 - Production, 4 - Flagship)
+This repository contains the codebase of Security C4PO, built with an Angular Frontend and two Spring Boot Backend Microservices.
 
-type: code, documentation, or other
+![Slideshow](assets/images/C4PO_Overview.gif)
+
+## Licensing
+
+[![license](https://img.shields.io/github/license/marcel-haag/security-c4po.svg)](https://github.com/marcel-haag/security-c4po/blob/master/LICENSE)
+
+Security C4PO is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) License. Please see the [LICENSE](https://github.com/marcel-haag/security-c4po/blob/main/LICENSE.md) file for more information.
+
+We hope you find Security C4PO useful for managing and generating pentest reports. If you encounter any issues or have suggestions for improvement, please feel free to create an issue on the [issue tracker](https://github.com/Marcel-Haag/security-c4po/issues).
