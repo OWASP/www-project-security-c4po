@@ -1,17 +1,22 @@
 ### Security-C4PO Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
+* <i class="fas fa-flag" style="font-size: 1.3em; color:#01d68f;"></i>
+  <span style="font-size: 1.3em;">Flagship Project</span>
+* <i style="color:#233e81;"></i> Alpha Release Version
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+### Classification
+* <i class="fas fa-tools" style="color:#222644;"></i> Tool
+
+#### Audience
+* <i class="fas fa-hammer" style="color:#ff3d70;"></i> Breaker
+* <i class="fas fa-shield-alt" style="color:#34a4fe;"></i> Defender
+
+### Installation
+* [From Source](https://github.com/marcel-haag/security-c4po#docker-hub-setup)
+* [Docker Hub](https://hub.docker.com/r/cellecram/security-c4po)
 
 ### Code Repository
-* [repo](#)
+* [C4PO Repo](https://github.com/marcel-haag/security-c4po) 
 
-### Change Log
-* [changes](#)
-
+### Social Links
+* [Website](https://security.c4po.dev/)
+* [Youtube](https://www.youtube.com/@SecurityC4PO/featured)
