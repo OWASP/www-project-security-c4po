@@ -2,8 +2,8 @@
 title: Contributing
 layout:  null
 tab: true
-order: 5
-tags: c4po-contributing
+order: 3
+tags: c4po
 ---
 
 ## Contributing to Security-C4PO

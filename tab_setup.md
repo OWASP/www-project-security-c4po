@@ -3,7 +3,7 @@ title: Setup
 layout:  null
 tab: true
 order: 2
-tags: c4po-setup
+tags: c4po
 ---
 
 ## Docker Hub Setup
