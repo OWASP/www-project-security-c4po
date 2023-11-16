@@ -14,15 +14,30 @@ pitch: Simplify Pentest Planning, Reporting, and Findings Delivery with C4PO
 ![workflow_badge](https://github.com/Marcel-Haag/security-c4po/actions/workflows/c4po-ci.yml/badge.svg?branch=main)
 ![workflow_badge](https://github.com/Marcel-Haag/security-c4po/actions/workflows/c4po-release.yml/badge.svg?branch=main)
 
+Welcome to the OWASP page for Security-C4PO, an open-source pentest reporting tool.
+Security-C4PO is an open-source web-application for managing and documenting penetration tests.
+It aims to streamline and automate the often time-consuming task of creating comprehensive reports by providing an intuitive web-based interface that facilitates the content of the [OWASP TESTING GUIDE](https://owasp.org/www-project-web-security-testing-guide/v42/).
+
 ![C4PO Logo](assets/images/repository-owasp-guide-c4po.png)
 
 ## Description
 
-Welcome to the frontend repository of Security C4PO, an open-source pentest reporting tool.
-Security C4PO is a powerful, user-friendly tool designed to simplify the process of generating professional pentest reports.
-It aims to streamline and automate the often time-consuming task of creating comprehensive reports by providing an intuitive web-based interface that facilitates the content of the [OWASP TESTING GUIDE](https://owasp.org/www-project-web-security-testing-guide/v42/).
+C4PO provides pentesters the perfect solution when it comes to reporting security vulnerabilities and other risk-related findings.
+It makes the pain of copy and paste a thing of the past.
+The interface is designed to guide you through your pentests in the style of the OWASP Testing Guide.
+Before creating your report we show you a summary through visualizing findings and their statuses.
 
-This repository contains the codebase of Security C4PO, built with an Angular Frontend and two Spring Boot Backend Microservices.
+### What can it do for you?
+* Great starting point for beginners
+* Easy way to do pentests without prior knowledge of hacking
+* Designed to avoid "Analysis Paralysis"
+* Central overview and organisation of pentests 
+* Saves money compared to hiring third-party pentesters or tools 
+* Completely open-source under the Apache-2.0 license 
+* Accelerate your pentest delivery to better serve clients 
+* Boost margins by slashing report creation time 
+* Automatically build actionable reports
+
 
 ![Slideshow](assets/images/C4PO_Overview.gif)
 
