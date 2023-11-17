@@ -1,6 +1,6 @@
 ### Security-C4PO Information
-* <i class="fas fa-flag" style="font-size: 1.3em; color:#01d68f;"></i>
-  <span style="font-size: 1.3em;">Flagship Project</span>
+* <i class="fas fa-egg" style="font-size: 1.3em; color:#3267fe;"></i>
+  <span style="font-size: 1.3em;">Incubator Project</span>
 * <i style="color:#233e81;"></i> Alpha Release Version
 
 ### Classification

@@ -9,10 +9,11 @@ pitch: Simplify Pentest Planning, Reporting, and Findings Delivery with C4PO
 
 ---
 
-[![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](/projects/#div-flagships)<!-- @IGNORE PREVIOUS: link -->
-[![GitHub stars](https://img.shields.io/github/stars/marcel-haag/security-c4po.svg?label=GitHub%20%E2%98%85&style=flat)](https://github.com/marcel-haag/security-c4po/stargazers)
+[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator%20project-3267fe.svg)](https://owasp.org/other_projects/)<!-- @IGNORE PREVIOUS: link -->
 ![workflow_badge](https://github.com/Marcel-Haag/security-c4po/actions/workflows/c4po-ci.yml/badge.svg?branch=main)
 ![workflow_badge](https://github.com/Marcel-Haag/security-c4po/actions/workflows/c4po-release.yml/badge.svg?branch=main)
+[![GitHub stars](https://img.shields.io/github/stars/marcel-haag/security-c4po.svg?label=GitHub%20%E2%98%85&style=flat)](https://github.com/marcel-haag/security-c4po/stargazers)
+
 
 Welcome to the OWASP page for Security-C4PO, an open-source pentest reporting tool.
 Security-C4PO is an open-source web-application for managing and documenting penetration tests.
