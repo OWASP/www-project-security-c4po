@@ -27,6 +27,8 @@ It makes the pain of copy and paste a thing of the past.
 The interface is designed to guide you through your pentests in the style of the OWASP Testing Guide.
 Before creating your report we show you a summary through visualizing findings and their statuses.
 
+Interested? Checkout our [Official Release Trailer](https://www.youtube.com/watch?v=DXVx4BFckmY)!
+
 ### What can it do for you?
 * Great starting point for beginners
 * Easy way to do pentests without prior knowledge of hacking
