@@ -1,0 +1,33 @@
+audience:
+  - breaker
+  - defender
+community:
+  - name: project-security-c4po
+    platform: slack
+    url: https://owasp.slack.com/archives/C06ECA5U8SY
+    description: "Security-C4PO is an open-source web-application for managing and documenting penetration tests.\nThis tool allows a security tester to\
+      \ keep track of the testing progress according to the OWASP Testing Guide."
+leaders:
+  - name: Marcel Haag
+    email: marcel.haag@owasp.org
+    github: marcel-haag
+level: 4
+license:
+  - Apache-2.0
+name: OWASP Security-C4PO
+pitch: Simplify Pentest Planning, Reporting, and Findings Delivery with C4PO
+repositories:
+  - name: www-project-security-c4po
+    url: https://github.com/OWASP/www-project-security-c4po
+    description: OWASP Foundation Web Repository
+  - name: security-c4po
+    url: https://github.com/marcel-haag/security-c4po
+    description: Security-C4PO is an open-source web-application for managing and documenting penetration tests. This tool allows a security tester to keep
+      track of the testing progress according to the OWASP Testing Guide. This application aims to make the offical Testing Guide more actionable to work
+      with.
+tags:
+  - c4po
+  - custom-tag-1
+  - custom-tag-2
+type: code
+website: https://owasp.org/www-project-security-c4po
