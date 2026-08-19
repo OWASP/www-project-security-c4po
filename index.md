@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Security-C4PO
 tags: c4po
-level: 4
+level: 2
 type: code
 pitch: Simplify Pentest Planning, Reporting, and Findings Delivery with C4PO
 
